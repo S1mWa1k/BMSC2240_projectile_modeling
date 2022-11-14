@@ -1,0 +1,6 @@
+name: SPSC2113-environment
+
+dependencies:
+  - bumpy
+  - matplotlib
+  - ipympl
