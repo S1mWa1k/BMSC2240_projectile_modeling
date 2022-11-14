@@ -1,4 +1,4 @@
-name: SPSC2113-environment
+name: SPSC2113_projectile_modeling-environment
 
 dependencies:
   - bumpy
