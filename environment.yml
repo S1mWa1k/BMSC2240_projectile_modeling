@@ -3,3 +3,4 @@ name: SPSC2113_projectile_modeling-environment
 dependencies:
   - numpy
   - matplotlib
+  - scipy
